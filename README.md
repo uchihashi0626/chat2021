@@ -1,4 +1,5 @@
 # chat2021
+研究室の勉強会で先輩からハンズオン形式でvue.js+firestoreを用いたチャットアプリを制作しました。
 
 ## Project setup
 ```
